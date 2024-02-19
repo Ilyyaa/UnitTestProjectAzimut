@@ -1,0 +1,6 @@
+\\LIB16\Students\ПМИб-2301-52-00\Баранцев Илья\Azimut\bin\Debug\Azimut.dll
+\\LIB16\Students\ПМИб-2301-52-00\Баранцев Илья\Azimut\bin\Debug\Azimut.pdb
+\\LIB16\Students\ПМИб-2301-52-00\Баранцев Илья\Azimut\obj\Debug\Azimut.csproj.AssemblyReference.cache
+\\LIB16\Students\ПМИб-2301-52-00\Баранцев Илья\Azimut\obj\Debug\Azimut.csproj.CoreCompileInputs.cache
+\\LIB16\Students\ПМИб-2301-52-00\Баранцев Илья\Azimut\obj\Debug\Azimut.dll
+\\LIB16\Students\ПМИб-2301-52-00\Баранцев Илья\Azimut\obj\Debug\Azimut.pdb
