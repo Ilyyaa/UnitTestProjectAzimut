@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestPoint", "UnitTestPoint.csproj", "{62B7BEFF-9DF2-4F92-B89C-BF0B03022B67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azimut", "..\Azimut\Azimut.csproj", "{9265422C-D41E-44DB-B523-398A0435B5AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62B7BEFF-9DF2-4F92-B89C-BF0B03022B67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62B7BEFF-9DF2-4F92-B89C-BF0B03022B67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62B7BEFF-9DF2-4F92-B89C-BF0B03022B67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62B7BEFF-9DF2-4F92-B89C-BF0B03022B67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9265422C-D41E-44DB-B523-398A0435B5AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9265422C-D41E-44DB-B523-398A0435B5AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9265422C-D41E-44DB-B523-398A0435B5AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9265422C-D41E-44DB-B523-398A0435B5AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52A526A3-D39B-45B1-9629-E840DA05119C}
+	EndGlobalSection
+EndGlobal
